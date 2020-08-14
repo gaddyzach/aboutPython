@@ -1,0 +1,156 @@
+#wrapper {
+    width: 975px;
+    height: auto;
+    margin: 0 auto;
+    display: block;
+    background-color: #245076;
+    padding: 10px 0px;
+}
+#picture {
+    display: inline-block;
+    height: 75px;
+    width: 275px;
+}
+header {
+    display: inline-block;
+}
+#textsize {
+    display: inline-block;
+    margin-left: 487px;
+    vertical-align: top;
+    color: white;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-size: 14px;
+}
+#normallarge {
+    display: inline-block;
+    vertical-align: top;
+    text-decoration: underline;
+    color:yellow;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-size: 14px;
+}
+#search {
+    background-color: #444444;
+    display: inline-block;
+    height: 50px;
+    width: 200px;
+    margin-left: 750px;
+    position: relative;
+    bottom: 50px;
+    border-radius: 10px;
+}
+#search #seachbar {
+    height: 25px;
+    width: 100px;
+    background-color: white;
+    display: inline-block;
+}
+#search input {
+    width: 100px;
+    margin: 15px 0px 0px 25px;
+}
+#search button {
+    height: 20px;
+    width: 40px;
+    display: inline-block;
+    background-color: navy;
+    color: white;
+}
+#links {
+    height: 50px;
+    width: 850px;
+    background-color: #477EAD;
+    display: block;
+    margin-left: 57px;
+    border-radius: 10px;
+    box-shadow: 10px black;
+}
+#links .linktext {
+    display: inline-block;
+    color: white;
+    margin: 15px 15px 15px 25px;
+    padding-left: 15px;
+    font-size: 20px;
+}
+nav {
+    display: inline-block;
+    background-color: inherit;
+    width: 235px;
+    height: auto;
+    line-height: 30px;
+    vertical-align: top;
+}
+
+nav li {
+    text-decoration: underline;
+    color: white;
+    font-size: 15px;
+    list-style: inside;
+    text-align: center;
+}
+main {
+    display: inline-block;
+    width: 650px;
+    height: auto;
+    background-color: inherit;
+    text-align: center;
+}
+main #pythonintro {
+    font-size: 12px;
+    color: white;
+}
+main .yellowwords {
+    color: gold;
+    font-size: 20px;
+}
+main #zenpython {
+    color: white;
+    font-size: 14px;
+}
+#middle {
+    width: 100%;
+    height: auto;
+    background-color: white;
+    display: block;
+}
+.midsection {
+    display: inline-block;
+    width: 300px;
+    border-top: 2px solid #477EAD;
+    vertical-align: top;
+    margin: 5px 0px 0px 120px;
+
+}
+.middleheading {
+    font-size: 15px;
+    text-align: center;
+    margin-bottom: 0px;
+    ;
+}
+.middletext {
+    font-size: 12px;
+    text-align: center;
+    margin-top: 2px;
+    margin-bottom: 0px;
+
+}
+.middlelist {
+    font-size: 12px;
+    color: lightskyblue;
+    list-style: inside;
+    margin-top: 0px;
+    line-height: 15px;
+}
+#bottom{
+    padding-left: 170px;
+
+}
+.footer {
+    display: inline-block;
+    font-size: 20px;
+    color: #87BAE5;
+    margin: 15px 0px 0px 15px;
+}
